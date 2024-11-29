@@ -8,5 +8,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] 2024-11-29
 
 ### Added
--Better vision of the texts.
--Usage of Python for backend
+- Better vision of the texts .
+- Usage of Python for backend
